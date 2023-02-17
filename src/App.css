@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  padding: 12%;
+}
+
+input{
+  margin: 1% 5% 0% 30%;
+  display: block;
+  width: 40%;
+}
+
+button{
+  margin-top: 3%;
+  width: 25%;
 }
 
 .App-logo {
